@@ -6,7 +6,7 @@
 
 
 
-<img src="https://media.giphy.com/media/aYP39ZD8HlCfmTOJ6P/giphy.gif" alt="Anakin Skywalker"/>
+<img src="https://64.media.tumblr.com/53c60dec2a2cb819351670c14ca02e3e/da814e432cbd2fea-9a/s540x810/309276f05db39ad56bcf471f6746d53b3a671f73.gif" alt="Anakin Skywalker" width=100/>
 
 </div>
 <div align="center">
